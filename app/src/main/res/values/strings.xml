@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">android_ui_trials</string>
+    <string name="app_name">Beer_app</string>
+    <string name="button_txt">FIND BEER</string>
+    <string name="spinner_hint">Select Beer</string>
+    <string name="beer_type">Beer Types</string>
+    <string-array name="beer_colors">
+        <item>Light</item>
+        <item>Amber</item>
+        <item>Brown</item>
+        <item>Dark</item>
+    </string-array>
 </resources>
