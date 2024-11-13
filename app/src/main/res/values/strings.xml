@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">android_ui_trials</string>
+    <string name="app_name">Layout trial</string>
+    <string name="send">SEND</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="pikachu">Pikachu</string>
+    <string name="pika_pika">Pika Pika</string>
+    <string name="lorem_ipsum">lorem ipsum</string>
 </resources>
